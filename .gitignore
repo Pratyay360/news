@@ -1,0 +1,9 @@
+.env
+./docs/web
+./public
+./makko*
+docs/web
+makko-aarch64-linux
+.github/
+.vscode/
+main.wasm
