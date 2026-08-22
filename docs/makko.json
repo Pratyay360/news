@@ -4,7 +4,7 @@
 	"description": "A GitHub-native newsletter platform.",
 	"url": "https://newsy.surge.sh",
 	"paths": {
-		"symlinks_enabled": true,
+		"symlinks_enabled": false,
 		"cleanup_mode": "none",
 		"source": "blog/",
 		"templates": "templates/",
@@ -31,7 +31,7 @@
 	"hashes": {
 		"o-EQ8FDLxzg": "5xcadszg4sM",
 		"sFTY-YhO1OI": "id5tVzvXjrc",
-		"De8AH0ASnvQ": "JMdcIG8hnF0",
+		"De8AH0ASnvQ": "D7KKGGiuLo8",
 		"HseB5l8pm3I": "g716ozj2lLM",
 		"IXGd7-xioQc": "l8Yix264Cqg",
 		"d6uExHe1NUk": "JrhbTuB1zmI"
